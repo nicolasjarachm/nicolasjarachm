@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Nicolás Jara ⚡</h1>
+<h1>Hi, I'm Nicolás Jara ➳ </h1>
 
 <p>
 Industrial Engineer → Transitioning into Software Development<br>
@@ -50,6 +50,14 @@ I aim to combine this perspective with technical skills to contribute to innovat
 - Contribute to technology-driven organizations or startups
 - Build solutions that improve efficiency and create value
 - Continue evolving both technically and professionally
+
+---
+## 🏹 Fun Fact
+
+Outside of tech, I practice **compound archery**.  
+I’m a compound bow archer and really enjoy the focus, precision, and discipline the sport requires.
+
+
 
 ---
 
