@@ -7,7 +7,7 @@ Industrial Engineer → Transitioning into Software Development<br>
 Python learner | Tech + Business mindset
 </p>
 
-<img src="https://github.com/nicolasjarachm/nicolasjarachm/blob/main/arquero-con-luz-solar.jpg?raw=true" width="280"/>
+![arquero-con-luz-solar](https://github.com/user-attachments/assets/374d8acb-128b-4f1e-a8d7-44b610348ecd)
 
 </div>
 
